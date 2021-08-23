@@ -1,0 +1,54 @@
+{
+    "servicios": [
+        {
+            "id": 1,
+            "nombre": "Corte de Cabello Adulto",
+            "precio": 450
+        },
+        {
+            "id": 2,
+            "nombre": "Corte de Cabello Niño",
+            "precio": 300
+        },
+        {
+            "id": 3,
+            "nombre": "Tinte de Barba",
+            "precio": 400
+        },
+        {
+            "id": 4,
+            "nombre": "Corte de Barba",
+            "precio": 100
+        },
+        {
+            "id": 5,
+            "nombre": "Peinado Hombre",
+            "precio": 100
+        },
+        {
+            "id": 6,
+            "nombre": "Tratamiento Facial",
+            "precio": 300
+        },
+        {
+            "id": 7,
+            "nombre": "Decoloración",
+            "precio": 400
+        },
+        {
+            "id": 8,
+            "nombre": "Alisado",
+            "precio": 200
+        },
+        {
+            "id": 9,
+            "nombre": "Lavado de Cabello",
+            "precio": 50
+        },
+        {
+            "id": 10,
+            "nombre" : "Tratamiento Capilar",
+            "precio": 150
+        }
+    ]
+}
